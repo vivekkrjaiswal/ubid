@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ubid",
+    "packageName": "io.ubid.application",
+    "packageFolder": "io/ubid/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "N2Y3ZjVhNjEwNjhiMTgxZTM2OTJkMjU2YmFiMjhmZWE4MzVhYTM0MmY1MTUyODM0MWIwZjQ3NjM0NDJlZWQ0ZDBkYTg4ODllMGIxZGNmZjI0N2JlZTRkN2RjZmI3Njk1M2EyMmZlZTc0NmUzNThkNTJkMTgzZDdhMWU2NDkzZWQ=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "vivekkrjaiswal",
+  "repository-name": "ubid"
+}
